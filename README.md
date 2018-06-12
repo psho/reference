@@ -1,4 +1,4 @@
-# Data Science Refernce
+# Data Science Reference
 
 ## Python
 
